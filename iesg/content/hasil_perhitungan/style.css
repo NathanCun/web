@@ -1,0 +1,25 @@
+.saran-container{
+    background-color: #5dc269;
+    color: white;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0px;
+    height: auto;
+}
+
+.saran-container .rate-wrap{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.saran-container .rate-wrap img {
+    margin: 0 6px;
+}
+
+.saran-container .saran-wrap{
+    width: 90%;
+}

@@ -1,0 +1,50 @@
+select{
+    /* background-color: lightgray; */
+    padding: 10px;
+}
+
+.kalkulator-input{
+    padding-right: 0!important;
+    width: 90%!important;
+}
+
+
+
+.flex{
+    display: flex;
+    align-items: center;
+    font-size: 1.2em;
+}
+
+.greennature-button-kendaraan-text{
+    background-color: #ffc400;
+    border-radius: 8px;
+    color: white;
+    padding: 15px;
+    margin-bottom: 100px;
+}
+
+.flex div{
+    display: flex;
+    align-items: center;
+}
+
+input[type="checkbox"]{
+    width: 20px;
+    height: 20px;
+}
+
+h5,h3{
+    display: flex !important;
+    align-items: center;
+}
+
+h3{
+    color: #5dc269;
+}
+@media screen and (max-width: 900px){
+    .last{
+        flex-direction: column;
+        align-items: start;
+    }
+}
