@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T12:29:13.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="r_QUUzb7BmEJRqK8vyX5" version="22.1.18" type="github">
-  <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
+<mxfile host="app.diagrams.net" modified="2024-01-16T12:36:42.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="4Wpv7D-6Y_YhVGBk_0uI" version="22.1.18" type="github" pages="2">
+  <diagram name="Konteks" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="905" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -125,6 +125,41 @@
           <mxGeometry x="-0.21" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Level 0" id="aVOfuQevAU05ASH97Mv9">
+    <mxGraphModel dx="1048" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="O7wXNATW90qLjHSOBKOd-0" />
+        <mxCell id="O7wXNATW90qLjHSOBKOd-1" parent="O7wXNATW90qLjHSOBKOd-0" />
+        <mxCell id="C4Mo3JOCC1lKTRdKsRty-0" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;1.0&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Mengelola&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Pendaftaran&amp;nbsp;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="O7wXNATW90qLjHSOBKOd-1">
+          <mxGeometry x="358" y="80" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Mo3JOCC1lKTRdKsRty-1" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;2.0&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Mengelola&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Pesanan&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Penjualan&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="O7wXNATW90qLjHSOBKOd-1">
+          <mxGeometry x="600" y="80" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Mo3JOCC1lKTRdKsRty-2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;3.0&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Mengelola&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Penjualan&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="O7wXNATW90qLjHSOBKOd-1">
+          <mxGeometry x="358" y="240" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Mo3JOCC1lKTRdKsRty-3" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;4.0&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Mengelola&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Retur&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Penjualan&amp;nbsp;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="O7wXNATW90qLjHSOBKOd-1">
+          <mxGeometry x="600" y="240" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Mo3JOCC1lKTRdKsRty-4" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;5.0&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Mengelola&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Laporan&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="O7wXNATW90qLjHSOBKOd-1">
+          <mxGeometry x="358" y="400" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Mo3JOCC1lKTRdKsRty-5" value="Pelanggan" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="O7wXNATW90qLjHSOBKOd-1">
+          <mxGeometry x="80.00000000000004" y="80" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Mo3JOCC1lKTRdKsRty-6" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;6.0&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Mengelola&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pendataan&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Barang&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="O7wXNATW90qLjHSOBKOd-1">
+          <mxGeometry x="600" y="400" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Mo3JOCC1lKTRdKsRty-7" value="Gudang" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="O7wXNATW90qLjHSOBKOd-1">
+          <mxGeometry x="80.00000000000004" y="520" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Mo3JOCC1lKTRdKsRty-8" value="Pemilik" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="O7wXNATW90qLjHSOBKOd-1">
+          <mxGeometry x="800" y="525" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
